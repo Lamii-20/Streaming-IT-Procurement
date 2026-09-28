@@ -40,12 +40,15 @@ The procurement engine operates across core ServiceNow modules in the **Global**
      - **Description:** `"Laptop needs to Configured"`[cite: 1]
      - **Assignment group:** `Hardware`[cite: 1]
      - **Approval:** `Approved`[cite: 1]
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ce9d84e5-ad94-4d4e-97fb-ed882c95556e" />
+
 
 2. **Service Catalog Binding:**
    - Navigate to **Service Catalog $\rightarrow$ Catalog Definitions $\rightarrow$ Maintain Items**[cite: 1].
    - Search for and open **Standard Laptop**[cite: 1].
    - Under the **Process Engine** tab, confirm the **Flow** field points to `Standard Laptop task`[cite: 1].
    - Click **Update**[cite: 1].
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/76bf6522-4891-4a45-9da8-fec2b3c600c2" />
 
 ---
 
@@ -68,6 +71,8 @@ The procurement engine operates across core ServiceNow modules in the **Global**
 3. Locate task with Short Description: `"Laptop needs to Configured"`[cite: 1].
 4. Assign task to technician, stage device, complete configuration, and set Task State to **Closed Complete**.
 
+<img width="1366" height="768" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/c891e405-2c4f-4b7d-9e98-67716dcdf5f7" />
+
 ---
 
 ## 5. System Maintenance, Operations & Auditing
@@ -75,6 +80,7 @@ The procurement engine operates across core ServiceNow modules in the **Global**
 - **Flow Execution Auditing:** Administrators can review execution logs by navigating to **Flow Designer $\rightarrow$ Executions** and filtering by Flow Name = `Standard Laptop task`[cite: 1].
 - **Error Handling & Retry:** If a task fails to generate due to missing group data or system updates, re-evaluate the execution context in Flow Executions and click **Rerun Flow**.
 - **Scope Compliance:** Do not alter application scope dependencies; the workflow must remain in the **Global** scope to maintain standard access across catalog tables[cite: 1].
+<img width="1366" height="768" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/6edaf9e4-6692-4f49-997f-997399acdaba" />
 
 ---
 
