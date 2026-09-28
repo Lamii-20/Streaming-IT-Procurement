@@ -41,3 +41,9 @@ This repository is organized into eight sequential phases detailing the complete
 ---
 
 ## 🔄 End-to-End Workflow Architecture
+<img width="1366" height="768" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/260e0bf8-929a-4d29-9acb-5da7b0ac1f6b" />
+<img width="1366" height="768" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f3f226a6-a47b-46bb-ae96-ace4c9d0b4fb" />
+<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/d6690e76-89e5-4e13-a44b-8ffa099da6c4" />
+
+<img width="1366" height="768" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/c77f083b-a284-4c3d-89b6-4aa7903cce7b" />
+<img width="1366" height="768" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/2452f030-2d87-4365-88a0-ff564f515091" />
