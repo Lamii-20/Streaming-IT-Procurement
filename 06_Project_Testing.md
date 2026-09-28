@@ -15,4 +15,4 @@ The **Project Testing Phase** validates the end-to-end functionality, automated 
 
 ### B. Test Execution Workflow
 
-<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/21016945-a997-492e-bda9-9be3ceccf4c9" />
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ace3cb63-3634-4ac6-8f91-9dd5104ba219" />
