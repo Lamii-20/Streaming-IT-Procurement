@@ -87,3 +87,6 @@ The procurement engine operates across core ServiceNow modules in the **Global**
 ## 6. Phase Documentation Visuals
 
 ### A. Flow Execution Logs & Audit Trail
+<img width="1366" height="768" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/ad549585-d973-4444-afe8-c4793b21fbe4" />
+<img width="1038" height="462" alt="Screenshot 2026-09-28 132753" src="https://github.com/user-attachments/assets/8185c723-c70b-40e3-8962-3a88fb33b564" />
+<img width="1328" height="726" alt="Screenshot 2026-09-28 132910" src="https://github.com/user-attachments/assets/9cd0667f-32a4-4676-ad5f-f7200b746f4e" />
