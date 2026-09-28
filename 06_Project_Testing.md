@@ -14,3 +14,5 @@ The **Project Testing Phase** validates the end-to-end functionality, automated 
 - **Automated Workflow:** Flow Designer - `Standard Laptop task`[cite: 1]
 
 ### B. Test Execution Workflow
+
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/21016945-a997-492e-bda9-9be3ceccf4c9" />
